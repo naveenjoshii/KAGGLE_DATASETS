@@ -1,2 +1,2 @@
 # KAGGLE_DATASETS
-bsic kaggle competitions
+basic kaggle competitions
